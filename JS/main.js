@@ -52,5 +52,6 @@ function punktepruefen(punkte){
         }
     else{
         console.log(punkte + "nicht möglich")
+        // maximale punktzahl & nur zahlen
     }
     }
